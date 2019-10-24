@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "bookingbug-angular-core": "2.0.44"
+    "wearefriday-bookingbug-angular-core-bower": "2.0.44-pa"
   }
 }
